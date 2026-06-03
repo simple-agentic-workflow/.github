@@ -7,8 +7,8 @@
 
 ## demo recordings
 
-* QA Tester agent: [demo_agent_qa.mp4](https://ai-maxxing.cc:8443/_work/demo_agent_qa.mp4)
-* Software Developer agent: [demo_agent_dev.mp4](https://ai-maxxing.cc:8443/_work/demo_agent_dev.mp4)
+* QA Tester agent: [demo_agent_qa.mp4](https://catamaniacrm.sharepoint.com/:v:/r/sites/CAT-SECURITE/Documents/50%20-%20Sensibilisation%20et%20formation/AI/demo_agent_qa.mp4?csf=1&web=1&e=RddkfQ)
+* Software Developer agent: [demo_agent_dev.mp4](https://catamaniacrm.sharepoint.com/:v:/r/sites/CAT-SECURITE/Documents/50%20-%20Sensibilisation%20et%20formation/AI/demo_agent_dev.mp4?csf=1&web=1&e=rrJOBq)
 
 ## The pitch in one sentence
 
